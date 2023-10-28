@@ -1,4 +1,3 @@
-![image](https://github.com/Velivelabhavana6/Login2Xplore-internship/assets/140882642/994fae78-fd4c-4506-a3c6-b7c5d63087dc)
 # JSON-Power-DB-Project
 
 JSONPowerDB is a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
